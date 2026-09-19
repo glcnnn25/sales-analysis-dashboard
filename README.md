@@ -22,6 +22,11 @@ covering sales, product, customer, and warehouse data.
 ## Tools
 Power BI (Power Query, DAX, data modeling)
 
+## Dataset
+[Supermarket Sales Analysis.xlsx](data/Supermarket%20Sales%20Analysis.xlsx)
+*(File is large — GitHub preview isn't available, but it downloads via the link above)*
+
+
 ## Preview
 ![Sales page](images/Sales.png)
 
