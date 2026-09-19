@@ -26,6 +26,8 @@ Power BI (Power Query, DAX, data modeling)
 [Supermarket Sales Analysis.xlsx](data/Supermarket%20Sales%20Analysis.xlsx)
 *(File is large — GitHub preview isn't available, but it downloads via the link above)*
 
+## Power BI file
+[sales_dashboard.pbix](sales_dashboard.pbix)
 
 ## Preview
 ![Sales page](images/Sales.png)
