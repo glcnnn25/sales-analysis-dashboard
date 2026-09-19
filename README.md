@@ -23,5 +23,5 @@ covering sales, product, customer, and warehouse data.
 Power BI (Power Query, DAX, data modeling)
 
 ## Preview
-![Sales page](images/sales.png)
+![Sales page](images/Sales.png)
 
