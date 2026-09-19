@@ -114,6 +114,8 @@ Possible future improvements include:
 - Creating more detailed product and store comparisons
 - Connecting the dashboard to a live data source
 
+> Note: Dashboard labels are in Azerbaijani, as this was built for a local business context.
+
 ## 📌 Project Status
 
 Completed
